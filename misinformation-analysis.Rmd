@@ -1,0 +1,23 @@
+---
+title: "Misinformation ANalysis"
+author: "Zhang Bohan"
+date: "2025-03-06"
+output: html_document
+---
+
+## R Markdown
+
+```{r setup}
+library(dplyr)
+library(ggplot2)
+library(readr)
+
+
+read_csv("../data/life-under-lockdown-wave2-extract.csv")
+```
+
+
+```{r}
+
+```
+
