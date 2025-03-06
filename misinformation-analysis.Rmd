@@ -13,7 +13,7 @@ library(ggplot2)
 library(readr)
 
 
-read_csv("../data/life-under-lockdown-wave2-extract.csv")
+read_csv("../data/life-under-lockdown-wave2-extract.csv",show_col_types=FALSE)
 ```
 
 
