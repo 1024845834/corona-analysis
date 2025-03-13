@@ -139,5 +139,5 @@ misinfo_d %>%
     method='spearman'
   )
 ```
-In the sample,there is a moderate positive correlation between relying on Facebook for knowledge about coronavirus and number of misinformation beliefs,rs(498)=0.23, p<0.001.
+In the sample,there is a statistically significant moderate positive correlation between relying on Facebook for knowledge about coronavirus and number of misinformation beliefs,rs(498)=0.23, p<0.001.
 
